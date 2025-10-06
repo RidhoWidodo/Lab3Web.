@@ -78,3 +78,11 @@ Cara Penggunaan:
  - Mac: Tahan `Command` + Klik opsi
 
 # Tahap 6: Menambahkan Tombol Submit
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/da4a678f-0777-453b-b050-7b62912e7833" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/947df6a1-637c-415f-acde-79941a5f26db" />
+
+**Penjelasannya:**
+ - `<input type="submit">`: Tombol untuk mengirim form
+ - `value="Kirim Data"`: Teks yang ditampilkan pada tombol
+
+# Tahap 7: Menambahkan CSS untuk Styling
