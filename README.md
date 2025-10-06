@@ -54,3 +54,15 @@ Radio Button:
    
 
 # Tahap 4: Membuat Dropdown Menu (Select)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4fe21378-18ba-46cd-8d3b-39176cb43d14" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/65fc3d48-6eda-4e56-a8b2-5cae77bf95f7" />
+
+**Penjelasannya**
+Dropdown Menu:
+ - `<select>`: Membuat dropdown menu.
+ - `name="negara"`: Nama variabel yang akan dikirim ke server.
+ - `<option>`: Opsi-opsi yang dapat dipilih.
+ - `value=""`: Nilai yang dikosongkan untuk opsi placeholder.
+ - `value="id"`: Nilai yang akan dikirim ketika opsi dipilih
+
+# Tahap 5: Membuat Listbox dengan Multiple Selection
