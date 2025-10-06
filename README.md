@@ -86,3 +86,17 @@ Cara Penggunaan:
  - `value="Kirim Data"`: Teks yang ditampilkan pada tombol
 
 # Tahap 7: Menambahkan CSS untuk Styling
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9f8226ec-e9f3-4d8a-a76b-14cdf4c08576" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/40ff0246-98a1-4965-a209-cf51b2629609" />
+
+**Penjelasannya:**
+Styling CSS:
+ - `font-family`: Mengatur jenis font
+ - `max-width`: Membatasi lebar maksimum konten
+ - `margin: 20px auto`: Memusatkan konten secara horizontal
+ - `border-radius`: Membuat sudut melengkung
+ - `display`: inline-block: Membuat label sejajar dengan input
+ - `width: 120px`: Mengatur lebar tetap untuk label
+ - Attribute Selector `input[type="text"]`: Memilih input berdasarkan type
+ - `cursor: pointer`: Mengubah kursor saat hover di tombol
+
